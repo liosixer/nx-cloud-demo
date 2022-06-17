@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "blog": "packages/blog",
-    "blog-e2e": "packages/blog-e2e"
+    "blog-e2e": "packages/blog-e2e",
+    "server": "packages/server"
   }
 }
